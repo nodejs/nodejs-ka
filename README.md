@@ -10,6 +10,10 @@
 
 - Irakli Janiashvili ([@irakli-janiashvili](https://github.com/irakli-janiashvili))
 
+## კონტრიბუციის მსურველებისთვის
+
+- https://github.com/iojs/iojs-ka/issues
+
 ## The MIT License (MIT)
 
 Copyright (c) 2015 - io.js
