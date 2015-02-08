@@ -9,6 +9,7 @@
 ## io.js-ის ქართული ლოკალიზების ჯგუფის წევრები
 
 - Irakli Janiashvili ([@irakli-janiashvili](https://github.com/irakli-janiashvili))
+- Levan Velijanashvili ([@Stichoza](https://github.com/Stichoza))
 
 ## კონტრიბუციის მსურველებისთვის
 
