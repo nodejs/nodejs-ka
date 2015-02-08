@@ -17,5 +17,8 @@
 ## კონტრიბუციის მსურველებისთვის
 
 - https://github.com/iojs/iojs-ka/issues
+- https://github.com/iojs/iojs-ka/issues/1
+- https://github.com/iojs/website/issues/125
 
-## [The MIT License (MIT)](/LICENSE)
+## ლიცენზია
+[The MIT License (MIT)](/LICENSE)
