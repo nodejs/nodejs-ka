@@ -5,6 +5,7 @@
 ## io.js საქართველო სოციალურ ქსელებში
 
 - [Twitter](http://twitter.com/iojs_ka)
+- [Medium](https://medium.com/@iojs_ka)
 
 ## io.js-ის ქართული ლოკალიზების ჯგუფის წევრები
 
