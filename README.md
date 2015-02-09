@@ -14,6 +14,7 @@
 - Irakli Janiashvili ([@irakli-janiashvili](https://github.com/irakli-janiashvili))
 - Levan Velijanashvili ([@Stichoza](https://github.com/Stichoza))
 - Davit Khaburdzania ([@davit-khaburdzania](https://github.com/davit-khaburdzania))
+- Nodari Chkuaselidze ([@nodar-chkuaselidze](https://github.com/nodar-chkuaselidze))
 
 ## კონტრიბუციის მსურველებისთვის
 
