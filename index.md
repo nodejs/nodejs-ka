@@ -1,23 +1,23 @@
 # JavaScript I/O
 
-Bringing [ES6](es6.html) to the Node Community!
+[ES6](es6.html) Node საზოგადოებისთვის!
 
-[io.js](https://github.com/iojs/io.js) is an [npm](https://www.npmjs.org/) compatible platform originally based on [node.js](https://nodejs.org/)&#8482;.
+[io.js](https://github.com/iojs/io.js) არის [npm-თან](https://www.npmjs.org/) თავსებადი პლატფორმა, რომელიც დაფუძვნებულია [node.js](https://nodejs.org/)&#8482; ბაზაზე.
 
 [![io.js](../images/1.0.0.png)](https://iojs.org/dist/v{{project.current_version}}/)
 
-[Version {{project.current_version}}](https://iojs.org/dist/v{{project.current_version}}/)
+[ვერსია {{project.current_version}}](https://iojs.org/dist/v{{project.current_version}}/)
 
-Download for
+გადმოწერეთ
 [Linux](https://iojs.org/dist/v{{project.current_version}}/iojs-v{{project.current_version}}-linux-x64.tar.xz),
 [Win32](https://iojs.org/dist/v{{project.current_version}}/iojs-v{{project.current_version}}-x86.msi),
 [Win64](https://iojs.org/dist/v{{project.current_version}}/iojs-v{{project.current_version}}-x64.msi),
-[Mac](https://iojs.org/dist/v{{project.current_version}}/iojs-v{{project.current_version}}.pkg) or
-[others](https://iojs.org/dist/v{{project.current_version}}/).
+[Mac](https://iojs.org/dist/v{{project.current_version}}/iojs-v{{project.current_version}}.pkg) ან
+[სხვა](https://iojs.org/dist/v{{project.current_version}}/) სისტემისთვის.
 
 
-[Changelog](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)
+[ცვლილებები](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)
 
-[Nightly releases](https://iojs.org/download/nightly/) are available for testing.
+ტესტირებისთვის ხელმისაწვდომია [ღამის რელიზი](https://iojs.org/download/nightly/).
 
-[Frequently Asked Questions](faq.html)
+[ხშირად დასმული კითხვები](faq.html)
