@@ -1,12 +1,12 @@
 {
   "browser-title":"io.js - JavaScript I/O",
   "logo-text":"io.js",
-  "faq-link":"FAQ",
+  "faq-link":"ხდკ",
   "es6-link":"ES6",
   "api-link":"API დოკუმენტაცია",
   "issues-link":"GitHub Issues",
-  "org-link":"GitHub Org",
-  "irc-link":"IRC Chat",
-  "irc-logs-link":"Logs",
+  "org-link":"GitHub ორგანიზაცია",
+  "irc-link":"IRC ჩათი",
+  "irc-logs-link":"IRC-ის ისტორია",
   "gov-link":"Governance"
 }
