@@ -18,10 +18,10 @@
 
 ## კონტრიბუციის მსურველებისთვის
 
-- https://github.com/iojs/iojs-ka/issues
-- https://github.com/iojs/iojs-ka/issues/1
-- https://github.com/iojs/website/issues/125
-- https://github.com/iojs/iojs-ka/pull/12
+- https://github.com/nodejs/nodejs-ka/issues
+- https://github.com/nodejs/nodejs-ka/issues/1
+- https://github.com/nodejs/website/issues/125
+- https://github.com/nodejs/nodejs-ka/pull/12
 
 ## ლიცენზია
 [The MIT License (MIT)](/LICENSE)
