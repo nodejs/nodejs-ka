@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/iojs/js-ka](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-ka?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[io.js](https://nodejs.org/)-ის ქართული ლოკალიზება
+[Node.js](https://nodejs.org/)-ის ქართული ლოკალიზება
 
 ## Node.js საქართველო სოციალურ ქსელებში
 
